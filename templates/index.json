@@ -7,7 +7,14 @@
           "type": "heading",
           "settings": {
             "heading": "ANIME EMPORIUM",
-            "heading_size": "medium"
+            "heading_size": "h1"
+          }
+        },
+        "text_qPyQfa": {
+          "type": "text",
+          "settings": {
+            "text": "Collect your anime merchandise here!",
+            "text_style": "subtitle"
           }
         },
         "button": {
@@ -20,20 +27,12 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
-        },
-        "text_qPyQfa": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "A N I M E  E M P O R I U M",
-            "text_style": "subtitle"
-          }
         }
       },
       "block_order": [
         "heading",
-        "button",
-        "text_qPyQfa"
+        "text_qPyQfa",
+        "button"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/tengyart-Z3uG_nKOgBk-unsplash_1920x1280_f1124cc7-acf4-4921-897a-523294173bee.jpg",
