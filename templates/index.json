@@ -94,12 +94,12 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "Featured Products",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "all",
+        "collection": "in-stock",
         "products_to_show": 6,
         "columns_desktop": 6,
         "full_width": false,
