@@ -3457,3 +3457,25 @@ details-disclosure > details {
 .collection .card__inner {
     border: 3px solid black !important;
 }
+.banner__box.content-container.content-container--full-width-mobile.color-scheme-1.gradient:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.0);
+}
+
+.banner__box.content-container.content-container--full-width-mobile.color-scheme-1.gradient {
+  background: transparent;
+}
+
+.page-width {
+  width: 90%; !important;
+  max-width: 90%; !important;
+}
+
+.shopify-policy__container {
+  max-width: 90% !important;
+}
