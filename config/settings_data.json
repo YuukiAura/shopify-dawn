@@ -5,6 +5,7 @@
     "favicon": "shopify:\/\/shop_images\/ae_48x48_Favicon.png",
     "type_header_font": "assistant_n4",
     "type_body_font": "assistant_n4",
+    "buttons_radius": 14,
     "cart_type": "notification",
     "sections": {
       "announcement-bar": {
