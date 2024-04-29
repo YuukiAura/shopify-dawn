@@ -7,6 +7,9 @@
     "type_body_font": "assistant_n4",
     "buttons_radius": 14,
     "collection_card_style": "standard",
+    "social_facebook_link": "https:\/\/www.facebook.com\/anime.emp\/",
+    "social_instagram_link": "https:\/\/www.instagram.com\/ani.emp",
+    "social_twitter_link": "https:\/\/twitter.com\/Ani_Emp",
     "cart_type": "notification",
     "sections": {
       "announcement-bar": {

@@ -15,7 +15,7 @@
         "paragraph_YTzeWC": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+            "text": "<p>Don't miss a thing! Sign up to receive news, updates, and 5% off! <\/p>"
           }
         },
         "email_form_pwReVy": {
@@ -67,7 +67,7 @@
         "newsletter_enable": false,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": false,
-        "show_social": false,
+        "show_social": true,
         "enable_country_selector": true,
         "enable_language_selector": true,
         "payment_enable": true,
