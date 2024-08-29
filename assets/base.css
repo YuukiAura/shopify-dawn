@@ -3479,3 +3479,7 @@ details-disclosure > details {
 .shopify-policy__container {
   max-width: 90% !important;
 }
+
+.product img.image-magnify-lightbox {
+    border: 2px solid;
+}
